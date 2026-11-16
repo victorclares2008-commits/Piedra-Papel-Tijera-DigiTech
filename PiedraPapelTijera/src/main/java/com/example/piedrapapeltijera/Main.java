@@ -8,7 +8,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 import java.util.Random;
-
+//fgd
 public class Main extends Application {
 
     Label lblResultado = new Label("Haz tu elección");
